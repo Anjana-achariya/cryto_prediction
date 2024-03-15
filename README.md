@@ -1,4 +1,4 @@
-**CRYPTO PREDICTION WEB APPLICATION USING STREAMLIT **
+**CRYPTO PREDICTION WEB APPLICATION USING STREAMLIT**
 <br>
 <br>
 Simple web application for crypto prediction using streamlit, python 
