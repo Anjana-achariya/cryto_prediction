@@ -1,6 +1,8 @@
-CRYPTO PREDICTION WEB APPLICATION USING STREAMLIT
+**bold**CRYPTO PREDICTION WEB APPLICATION USING STREAMLIT 
+<br>
 Simple web application for crypto prediction using streamlit, python 
-MODELS USED :
-RANDOMFOREST REGRESSOR (acrypto)
+<br>
+MODELS USED : <br>
+RANDOMFOREST REGRESSOR (acrypto) <br>
 LINEAR REGRESSION (bcrypto)
 
